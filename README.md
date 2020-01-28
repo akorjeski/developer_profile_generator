@@ -35,6 +35,7 @@ Before  you get started, make sure you run __npm install__ to make sure you inst
 
 They are referenced in __package.json__   
 
+## How to Use:  
 Initially the user is prompted for 2 inputs: 
 
 1.	Their Github username (string)
