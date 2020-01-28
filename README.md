@@ -29,7 +29,9 @@ The PDF will be populated with the following:
 
 
 
-The application will be invoked with the following command:  	__node index.js__
+The application will be invoked with the following command:  	__node index.js__  
+Before  you get started, make sure you run __npm install__ to make sure you install all the needed dependencies.  
+They are referenced in __package.json__   
 Initially the user is prompted for 2 inputs: 
 
 1.	Their Github username (string)
