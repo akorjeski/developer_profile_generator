@@ -3,7 +3,6 @@ const axios = require("axios");
 const inquirer = require("inquirer");
 const convertFactory = require('electron-html-to');
 
-// const generateHTML = require('./generateHTML.js')
 
 var conversion = convertFactory({
     converterPath: convertFactory.converters.PDF
@@ -16,6 +15,7 @@ let questions = [
     {
         message: 'What is your github username?',
         name: 'username',
+        type: 'input'
     },
     {
         message: 'What is your favorite color',
@@ -26,9 +26,7 @@ let questions = [
 ]
 
 
-// function writeToFile(fileName, data) {
- 
-// } not necessary with electron-html-to
+
 
 function init() {
     inquirer

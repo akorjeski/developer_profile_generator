@@ -1,10 +1,11 @@
-### Alexander Korjeski
-### January 28th, 2020
-### Penn LPS Coding Bootcamp
-### Homework 9: Developer Profile Generator
-### Deployed Application: https://akorjeski.github.io/developer_profile_generator/.
-### Github Repository:  https://github.com/akorjeski/developer_profile_generator
-### Technologies: HTML, CSS, Javascript, node.js, NPM
+# Homework 9: Developer Profile Generator
+
+## Alexander Korjeski
+## January 28th, 2020
+## Penn LPS Coding Bootcamp
+## Deployed Application: https://akorjeski.github.io/developer_profile_generator/.
+## Github Repository:  https://github.com/akorjeski/developer_profile_generator
+## Technologies: HTML, CSS, Javascript, node.js, NPM
 
 ## User Story:
 AS A product manager
@@ -42,3 +43,6 @@ Initially the user is prompted for 2 inputs:
 2.	Color preference from a prefabbed list (Green,Blue,Pink,Red)
 
 After this, the application creates a .pdf file within the parent folder. Open it to see how it looks!
+
+
+!this is a video of the application [testing123.webm]
